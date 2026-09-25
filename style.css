@@ -1,0 +1,232 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    justify-content: right;
+
+}
+
+.sobre {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 80px 0;
+}
+
+.sobre-conteudo {
+    max-width: 1140px;
+    margin: auto;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.sobre-texto h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    margin-bottom: 20px;
+
+}
+
+.sobre-texto p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imagens h5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #555;
+
+}
+
+.icones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fronteira {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 80px 0;
+    display: flex;
+}
+
+.fronteira-conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.fronteira-texto h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    margin-bottom: 20px;
+
+
+}
+
+.fronteira-texto p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    color: #555;
+    overflow-wrap: break-word;
+}
+
+.fronteira-imagem img {
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.conteiner {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 80px 0;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.conteiner-conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.conteiner-texto h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    margin-bottom: 20px;
+
+
+}
+
+.conteiner-texto p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    color: #555;
+    overflow-wrap: break-word;
+}
+
+.conteiner-imagem img {
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+    justify-content: left;
+
+
+}
+
+.carousel-inner {
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.dado {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 80px 0;
+}
+
+.dado-conteudo {
+    max-width: 1140px;
+    margin: auto;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.dado-texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    color: #555;
+}
+
+.dado-texto h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    margin-bottom: 20px;
+    align-items: center;
+
+}
+
+.paragrafo {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 80px 0;
+}
+
+.paragrafo-conteudo {
+    max-width: 1140px;
+    margin: auto;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.paragrafo-texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    color: #555;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+.paragrafo-texto h1 p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+.card-body{
+     width: 100%;
+    background-color: rgb(179, 217, 232);
+    padding: 80px 0;
+}
